@@ -2,7 +2,7 @@
 This app project, based on python tkinter library, implements turtle-graphic to draw an Internal Combustion Engine and its labelling.
 
 
-![image showing the the project image](/projectscreenshot.png)
+![image showing the the project image](/projectscreenshot1.png)
 
 
 # Dependencies
