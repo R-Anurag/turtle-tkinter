@@ -14,7 +14,10 @@ This app project, based on python tkinter library, implements turtle-graphic to 
 # To run
 1. Download the zip file of the project ( Code --> Download ZIP )
 2. Extract the zip file in a folder
-3. Open command prompt, navigate the the above folder and run the below command: 
+3. Open command prompt, navigate the the above folder and run the below command:
+```console
+python3 icengine.py
+```
 > python3 icengine.py
 
 
