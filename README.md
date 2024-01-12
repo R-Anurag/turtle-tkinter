@@ -6,11 +6,12 @@ https://github.com/R-Anurag/turtle-tkinter/assets/146112209/edda11ad-f1a2-42a3-8
 
 
 # Dependencies
-> Python 3.x  
-> tkinter      ( pip3 install tk     )
-> pillow       ( pip3 install pillow )
-> pygame       ( pip3 install pygame )
-
+```console
+Python 3.x  
+tkinter      ( pip3 install tk     )
+pillow       ( pip3 install pillow )
+pygame       ( pip3 install pygame )
+```
 
 # To run
 1. Download the zip file of the project ( Code --> Download ZIP )
@@ -19,7 +20,6 @@ https://github.com/R-Anurag/turtle-tkinter/assets/146112209/edda11ad-f1a2-42a3-8
 ```console
 python3 icengine.py
 ```
-> python3 icengine.py
 
 
 
